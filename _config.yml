@@ -1,14 +1,14 @@
-title: Rohit Jain
-email: rohitjain18005@gmail.com
+title: Chloe Kim
+email: chloe.minkyung.k@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://therohitjain.com"
+url: "https://chloe-minkyung.kim"
 
 # Build settings
 markdown: kramdown
 theme: dev-portfolio-blog
-resume_url: "Resume.pdf"
-author_name: Rohit Jain
+resume_url: "kim_resume_2021.pdf"
+author_name: Chloe Kim
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -138,11 +138,11 @@ assets:
 plugins:
   - jekyll-minifier
 
-google_analytics: "UA-114665281-1"
+# google_analytics: "UA-114665281-1"
 
 # Disqus Comments
 disqus:
-  shortname: rohitjain00
+  shortname: chloe
 
 pwa: true
 

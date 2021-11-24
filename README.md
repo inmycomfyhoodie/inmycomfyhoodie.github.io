@@ -1,7 +1,1 @@
-[![Build Status](https://travis-ci.org/rohitjain00/rohitjain00.github.io.svg?branch=master)](https://travis-ci.org/rohitjain00/rohitjain00.github.io)
-
-
-# rohitjain.github.io
-Jekyll Theme Based Portfolio
-
-Visit https://github.com/rohitjain00/dev-portfolio-blog
+[![Build Status](https://travis-ci.org/inmycomfyhoodie/inmycomfyhoodie.github.io.svg?branch=main)](https://travis-ci.org/inmycomfyhoodie/inmycomfyhoodie.github.io)
